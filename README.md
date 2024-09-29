@@ -1,2 +1,1 @@
-第一次使用
-print("hello world")
+Some beginner-written Python web scraping code aims to obtain housing listings from Anjuke.
